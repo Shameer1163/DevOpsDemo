@@ -8,6 +8,6 @@ namespace DevOpsDemoBuild
 {
     public class Class1
     {
-        String test = "Build";
+        String test = "Build-New branch";
     }
 }
